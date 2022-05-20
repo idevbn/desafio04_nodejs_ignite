@@ -49,7 +49,7 @@ Algumas das tecnologias presentes na solução do desafio:
 
 1. Pré-requisitos:
 
-Para executar essa aplicação localmente é necessário ter instalado na sua máquina: **[Node.js](https://nodejs.org/en/)**, **[Git](https://git-scm.com/)** and a package manager such as \*\*[Yarn](https://yarnpkg.com/)
+Para executar essa aplicação localmente é necessário ter instalado na sua máquina: **[Node.js](https://nodejs.org/en/)**, **[Git](https://git-scm.com/)** e um gerenciador de pacotes, tal qual: **[Yarn](https://yarnpkg.com/)**
 
 2. Clonando este repositório:
 
